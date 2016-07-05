@@ -7,6 +7,11 @@ Sample code for Line Follower Robot
 
 Designed by Inderpreet Singh Of Guru Nanak Dev Univeristy, Amritsar
 
+## Instructions
+Download or clone this project and then rename to folder to line_follower. Then move it to the Documents->Energia Folder with the rest of the sketches. Restart Energia and open the project from the sketchbook menu.
+
+
+## License
 This software may be distributed and modified under the terms of the GNU
 General Public License version 2 (GPL2) as published by the Free Software
 Foundation and appearing in the file LICENSE.TXT included in the packaging of
